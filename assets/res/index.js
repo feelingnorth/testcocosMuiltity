@@ -1,4 +1,8 @@
-System.register("chunks:///_virtual/res",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/res", [], function () {
+  return {
+    execute: function () {}
+  };
+});
 
 (function(r) {
   r('virtual:///prerequisite-imports/res', 'chunks:///_virtual/res'); 

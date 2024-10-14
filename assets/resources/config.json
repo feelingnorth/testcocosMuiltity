@@ -1,1 +1,41 @@
-{"importBase":"import","nativeBase":"native","name":"resources","deps":[],"uuids":["0283a3011","135k663OZFMrU7a3W+CZcN","41NT/rf/NHFb0WrKqUG/dH"],"paths":{"1":["shaders/multi-texture-2d",1],"2":["shaders/multi-texture-2d",0]},"scenes":{},"packs":{"0283a3011":["1","2"]},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{"1":["2"]},"types":["cc.EffectAsset","cc.Material"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "0283a3011",
+        "13e64eba-dce6-4532-b53b-6b75be09970d",
+        "41353feb-7ff3-4715-bd16-acaa941bf747"
+    ],
+    "paths": {
+        "41353feb-7ff3-4715-bd16-acaa941bf747": [
+            "shaders/multi-texture-2d",
+            "cc.EffectAsset"
+        ],
+        "13e64eba-dce6-4532-b53b-6b75be09970d": [
+            "shaders/multi-texture-2d",
+            "cc.Material"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0283a3011": [
+            "13e64eba-dce6-4532-b53b-6b75be09970d",
+            "41353feb-7ff3-4715-bd16-acaa941bf747"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {
+        "13e64eba-dce6-4532-b53b-6b75be09970d": [
+            "41353feb-7ff3-4715-bd16-acaa941bf747"
+        ]
+    }
+}
